@@ -1,0 +1,312 @@
+C:\agam\agam\bin\Debug\agam.exe.config
+C:\agam\agam\bin\Debug\agam.exe
+C:\agam\agam\bin\Debug\agam.pdb
+C:\agam\agam\obj\Debug\agam.csprojAssemblyReference.cache
+C:\agam\agam\obj\Debug\agam.Forms.frmAccountsM.resources
+C:\agam\agam\obj\Debug\agam.Forms.frmlogin.resources
+C:\agam\agam\obj\Debug\agam.Forms.frmSignUp.resources
+C:\agam\agam\obj\Debug\agam.Properties.Resources.resources
+C:\agam\agam\obj\Debug\agam.csproj.GenerateResource.cache
+C:\agam\agam\obj\Debug\agam.csproj.CoreCompileInputs.cache
+C:\agam\agam\obj\Debug\agam.exe
+C:\agam\agam\obj\Debug\agam.pdb
+C:\agam\agam\obj\Debug\agam.Forms.frmMoviesM.resources
+C:\agam\agam\obj\Debug\agam.Forms.frmTvShowsM.resources
+C:\agam\agam\obj\Debug\agam.Forms.frmUsersM.resources
+Z:\Ofra\אלצ 2024\agam\agam\bin\Debug\agam.exe.config
+Z:\Ofra\אלצ 2024\agam\agam\bin\Debug\agam.exe
+Z:\Ofra\אלצ 2024\agam\agam\bin\Debug\agam.pdb
+Z:\Ofra\אלצ 2024\agam\agam\obj\Debug\agam.csproj.AssemblyReference.cache
+Z:\Ofra\אלצ 2024\agam\agam\obj\Debug\agam.Forms.frmAccountsM.resources
+Z:\Ofra\אלצ 2024\agam\agam\obj\Debug\agam.Forms.frmMoviesM.resources
+Z:\Ofra\אלצ 2024\agam\agam\obj\Debug\agam.Forms.frmSignUp.resources
+Z:\Ofra\אלצ 2024\agam\agam\obj\Debug\agam.Forms.frmTvShowsM.resources
+Z:\Ofra\אלצ 2024\agam\agam\obj\Debug\agam.Forms.frmUsersM.resources
+Z:\Ofra\אלצ 2024\agam\agam\obj\Debug\agam.Properties.Resources.resources
+Z:\Ofra\אלצ 2024\agam\agam\obj\Debug\agam.csproj.GenerateResource.cache
+Z:\Ofra\אלצ 2024\agam\agam\obj\Debug\agam.csproj.CoreCompileInputs.cache
+Z:\Ofra\אלצ 2024\agam\agam\obj\Debug\agam.exe
+Z:\Ofra\אלצ 2024\agam\agam\obj\Debug\agam.pdb
+C:\Users\medin\OneDrive\agam\agam\bin\Debug\agam.exe.config
+C:\Users\medin\OneDrive\agam\agam\bin\Debug\agam.exe
+C:\Users\medin\OneDrive\agam\agam\bin\Debug\agam.pdb
+C:\Users\medin\OneDrive\agam\agam\obj\Debug\agam.csprojAssemblyReference.cache
+C:\Users\medin\OneDrive\agam\agam\obj\Debug\agam.Forms.frmAccountsM.resources
+C:\Users\medin\OneDrive\agam\agam\obj\Debug\agam.Forms.frmlogin.resources
+C:\Users\medin\OneDrive\agam\agam\obj\Debug\agam.Forms.frmMoviesM.resources
+C:\Users\medin\OneDrive\agam\agam\obj\Debug\agam.Forms.frmSignUp.resources
+C:\Users\medin\OneDrive\agam\agam\obj\Debug\agam.Forms.frmTvShowsM.resources
+C:\Users\medin\OneDrive\agam\agam\obj\Debug\agam.Forms.frmUsersM.resources
+C:\Users\medin\OneDrive\agam\agam\obj\Debug\agam.Properties.Resources.resources
+C:\Users\medin\OneDrive\agam\agam\obj\Debug\agam.csproj.GenerateResource.cache
+C:\Users\medin\OneDrive\agam\agam\obj\Debug\agam.csproj.CoreCompileInputs.cache
+C:\Users\medin\OneDrive\agam\agam\obj\Debug\agam.exe
+C:\Users\medin\OneDrive\agam\agam\obj\Debug\agam.pdb
+C:\Users\medin\OneDrive\agam\agam\obj\Debug\agam.Forms.FrmAccountTypesM.resources
+C:\Users\medin\OneDrive\agam\agam\bin\Debug\Interop.WMPLib.dll
+C:\Users\medin\OneDrive\agam\agam\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\medin\OneDrive\agam\agam\obj\Debug\Interop.WMPLib.dll
+C:\Users\medin\OneDrive\agam\agam\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\medin\OneDrive\agam\agam\obj\Debug\agam.csproj.ResolveComReference.cache
+C:\Users\medin\OneDrive\agam\agam\obj\Debug\agam.Forms.frmMyListC.resources
+Z:\Ofra\אלצ 2024\agam\agam\bin\Debug\Interop.WMPLib.dll
+Z:\Ofra\אלצ 2024\agam\agam\bin\Debug\AxInterop.WMPLib.dll
+Z:\Ofra\אלצ 2024\agam\agam\obj\Debug\Interop.WMPLib.dll
+Z:\Ofra\אלצ 2024\agam\agam\obj\Debug\AxInterop.WMPLib.dll
+Z:\Ofra\אלצ 2024\agam\agam\obj\Debug\agam.csproj.ResolveComReference.cache
+Z:\Ofra\אלצ 2024\agam\agam\obj\Debug\agam.Forms.FrmAccountTypesM.resources
+Z:\Ofra\אלצ 2024\agam\agam\obj\Debug\agam.Forms.frmMyListC.resources
+Z:\Ofra\אלצ 2024\agam\agam\obj\Debug\agam.Forms.frmlogin.resources
+C:\Users\medin\OneDrive\Documents\myProject\agam\obj\Debug\agam.csprojAssemblyReference.cache
+C:\Users\medin\OneDrive\Documents\myProject\agam\obj\Debug\Interop.WMPLib.dll
+C:\Users\medin\OneDrive\Documents\myProject\agam\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\medin\OneDrive\Documents\myProject\agam\obj\Debug\agam.csproj.ResolveComReference.cache
+C:\Users\medin\OneDrive\Documents\myProject\agam\obj\Debug\agam.Forms.frmAccountsM.resources
+C:\Users\medin\OneDrive\Documents\myProject\agam\obj\Debug\agam.Forms.FrmAccountTypesM.resources
+C:\Users\medin\OneDrive\Documents\myProject\agam\obj\Debug\agam.Forms.frmlogin.resources
+C:\Users\medin\OneDrive\Documents\myProject\agam\obj\Debug\agam.Forms.frmMoviesM.resources
+C:\Users\medin\OneDrive\Documents\myProject\agam\obj\Debug\agam.Forms.frmMyListC.resources
+C:\Users\medin\OneDrive\Documents\myProject\agam\obj\Debug\agam.Forms.frmSignUp.resources
+C:\Users\medin\OneDrive\Documents\myProject\agam\obj\Debug\agam.Forms.frmTvShowsM.resources
+C:\Users\medin\OneDrive\Documents\myProject\agam\obj\Debug\agam.Forms.frmUsersM.resources
+C:\Users\medin\OneDrive\Documents\myProject\agam\obj\Debug\agam.Properties.Resources.resources
+C:\Users\medin\OneDrive\Documents\myProject\agam\obj\Debug\agam.csproj.GenerateResource.cache
+C:\Users\medin\OneDrive\Documents\myProject\agam\obj\Debug\agam.csproj.CoreCompileInputs.cache
+C:\Users\medin\OneDrive\Documents\myProject\agam\obj\Debug\agam.exe
+C:\Users\medin\OneDrive\Documents\myProject\agam\obj\Debug\agam.pdb
+C:\Users\medin\OneDrive\Documents\myProject\agam\bin\Debug\agam.exe.config
+C:\Users\medin\OneDrive\Documents\myProject\agam\bin\Debug\agam.exe
+C:\Users\medin\OneDrive\Documents\myProject\agam\bin\Debug\agam.pdb
+C:\Users\medin\OneDrive\Documents\myProject\agam\bin\Debug\Interop.WMPLib.dll
+C:\Users\medin\OneDrive\Documents\myProject\agam\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\Ofra\Desktop\myProject (1)\myProject\agam\obj\Debug\agam.csprojAssemblyReference.cache
+C:\Users\Ofra\Desktop\myProject (1)\myProject\agam\obj\Debug\Interop.WMPLib.dll
+C:\Users\Ofra\Desktop\myProject (1)\myProject\agam\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\Ofra\Desktop\myProject (1)\myProject\agam\obj\Debug\agam.csproj.ResolveComReference.cache
+C:\Users\Ofra\Desktop\myProject (1)\myProject\agam\obj\Debug\agam.exe
+C:\Users\Ofra\Desktop\myProject (1)\myProject\agam\obj\Debug\agam.pdb
+C:\Users\Ofra\Desktop\myProject (1)\myProject\agam\obj\Debug\agam.Forms.frmAccountsM.resources
+C:\Users\Ofra\Desktop\myProject (1)\myProject\agam\obj\Debug\agam.Forms.FrmAccountTypesM.resources
+C:\Users\Ofra\Desktop\myProject (1)\myProject\agam\obj\Debug\agam.Forms.frmlogin.resources
+C:\Users\Ofra\Desktop\myProject (1)\myProject\agam\obj\Debug\agam.Forms.frmManagerDataM.resources
+C:\Users\Ofra\Desktop\myProject (1)\myProject\agam\obj\Debug\agam.Forms.frmMoviesM.resources
+C:\Users\Ofra\Desktop\myProject (1)\myProject\agam\obj\Debug\agam.Forms.frmMyListC.resources
+C:\Users\Ofra\Desktop\myProject (1)\myProject\agam\obj\Debug\agam.Forms.frmSignUp.resources
+C:\Users\Ofra\Desktop\myProject (1)\myProject\agam\obj\Debug\agam.Forms.frmTvShowsM.resources
+C:\Users\Ofra\Desktop\myProject (1)\myProject\agam\obj\Debug\agam.Forms.frmUsersM.resources
+C:\Users\Ofra\Desktop\myProject (1)\myProject\agam\obj\Debug\agam.csproj.GenerateResource.cache
+C:\Users\Ofra\Desktop\myProject (1)\myProject\agam\bin\Debug\agam.exe.config
+C:\Users\Ofra\Desktop\myProject (1)\myProject\agam\bin\Debug\agam.exe
+C:\Users\Ofra\Desktop\myProject (1)\myProject\agam\bin\Debug\agam.pdb
+C:\Users\Ofra\Desktop\myProject (1)\myProject\agam\bin\Debug\Interop.WMPLib.dll
+C:\Users\Ofra\Desktop\myProject (1)\myProject\agam\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\Ofra\Desktop\myProject (1)\myProject\agam\obj\Debug\agam.Properties.Resources.resources
+C:\Users\Ofra\Desktop\myProject (1)\myProject\agam\obj\Debug\agam.csproj.CoreCompileInputs.cache
+C:\Users\Student\Documents\myProject\agam\bin\Debug\agam.exe.config
+C:\Users\Student\Documents\myProject\agam\bin\Debug\agam.exe
+C:\Users\Student\Documents\myProject\agam\bin\Debug\agam.pdb
+C:\Users\Student\Documents\myProject\agam\bin\Debug\Interop.WMPLib.dll
+C:\Users\Student\Documents\myProject\agam\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\Student\Documents\myProject\agam\obj\Debug\agam.csproj.AssemblyReference.cache
+C:\Users\Student\Documents\myProject\agam\obj\Debug\Interop.WMPLib.dll
+C:\Users\Student\Documents\myProject\agam\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\Student\Documents\myProject\agam\obj\Debug\agam.csproj.ResolveComReference.cache
+C:\Users\Student\Documents\myProject\agam\obj\Debug\agam.Forms.frmAccountsM.resources
+C:\Users\Student\Documents\myProject\agam\obj\Debug\agam.Forms.FrmAccountTypesM.resources
+C:\Users\Student\Documents\myProject\agam\obj\Debug\agam.Forms.frmlogin.resources
+C:\Users\Student\Documents\myProject\agam\obj\Debug\agam.Forms.frmManagerDataM.resources
+C:\Users\Student\Documents\myProject\agam\obj\Debug\agam.Forms.frmMoviesM.resources
+C:\Users\Student\Documents\myProject\agam\obj\Debug\agam.Forms.frmMyListC.resources
+C:\Users\Student\Documents\myProject\agam\obj\Debug\agam.Forms.frmSignUp.resources
+C:\Users\Student\Documents\myProject\agam\obj\Debug\agam.Forms.frmTvShowsM.resources
+C:\Users\Student\Documents\myProject\agam\obj\Debug\agam.Forms.frmUsersM.resources
+C:\Users\Student\Documents\myProject\agam\obj\Debug\agam.Properties.Resources.resources
+C:\Users\Student\Documents\myProject\agam\obj\Debug\agam.csproj.GenerateResource.cache
+C:\Users\Student\Documents\myProject\agam\obj\Debug\agam.csproj.CoreCompileInputs.cache
+C:\Users\Student\Documents\myProject\agam\obj\Debug\agam.exe
+C:\Users\Student\Documents\myProject\agam\obj\Debug\agam.pdb
+C:\myProject\agam\bin\Debug\agam.exe.config
+C:\myProject\agam\bin\Debug\agam.exe
+C:\myProject\agam\bin\Debug\agam.pdb
+C:\myProject\agam\bin\Debug\Interop.WMPLib.dll
+C:\myProject\agam\bin\Debug\AxInterop.WMPLib.dll
+C:\myProject\agam\obj\Debug\agam.csprojAssemblyReference.cache
+C:\myProject\agam\obj\Debug\Interop.WMPLib.dll
+C:\myProject\agam\obj\Debug\AxInterop.WMPLib.dll
+C:\myProject\agam\obj\Debug\agam.csproj.ResolveComReference.cache
+C:\myProject\agam\obj\Debug\agam.Forms.frmAccountsM.resources
+C:\myProject\agam\obj\Debug\agam.Forms.FrmAccountTypesM.resources
+C:\myProject\agam\obj\Debug\agam.Forms.frmlogin.resources
+C:\myProject\agam\obj\Debug\agam.Forms.frmManagerDataM.resources
+C:\myProject\agam\obj\Debug\agam.Forms.frmMoviesM.resources
+C:\myProject\agam\obj\Debug\agam.Forms.frmMyListC.resources
+C:\myProject\agam\obj\Debug\agam.Forms.frmSignUp.resources
+C:\myProject\agam\obj\Debug\agam.Forms.frmTvShowsM.resources
+C:\myProject\agam\obj\Debug\agam.Forms.frmUsersM.resources
+C:\myProject\agam\obj\Debug\agam.Properties.Resources.resources
+C:\myProject\agam\obj\Debug\agam.csproj.GenerateResource.cache
+C:\myProject\agam\obj\Debug\agam.csproj.CoreCompileInputs.cache
+C:\myProject\agam\obj\Debug\agam.exe
+C:\myProject\agam\obj\Debug\agam.pdb
+C:\myProject\agam\obj\Debug\agam.Forms.frmTvShowsC.resources
+C:\myProject\agam\obj\Debug\agam.Forms.frmUsersChooseC.resources
+C:\Users\Ofra\Desktop\2024 יב אלצ\New folder\myProject (1)\myProject\agam\bin\Debug\agam.exe.config
+C:\Users\Ofra\Desktop\2024 יב אלצ\New folder\myProject (1)\myProject\agam\bin\Debug\agam.exe
+C:\Users\Ofra\Desktop\2024 יב אלצ\New folder\myProject (1)\myProject\agam\bin\Debug\agam.pdb
+C:\Users\Ofra\Desktop\2024 יב אלצ\New folder\myProject (1)\myProject\agam\bin\Debug\Interop.WMPLib.dll
+C:\Users\Ofra\Desktop\2024 יב אלצ\New folder\myProject (1)\myProject\agam\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\Ofra\Desktop\2024 יב אלצ\New folder\myProject (1)\myProject\agam\obj\Debug\agam.csprojAssemblyReference.cache
+C:\Users\Ofra\Desktop\2024 יב אלצ\New folder\myProject (1)\myProject\agam\obj\Debug\Interop.WMPLib.dll
+C:\Users\Ofra\Desktop\2024 יב אלצ\New folder\myProject (1)\myProject\agam\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\Ofra\Desktop\2024 יב אלצ\New folder\myProject (1)\myProject\agam\obj\Debug\agam.csproj.ResolveComReference.cache
+C:\Users\Ofra\Desktop\2024 יב אלצ\New folder\myProject (1)\myProject\agam\obj\Debug\agam.Forms.frmAccountsM.resources
+C:\Users\Ofra\Desktop\2024 יב אלצ\New folder\myProject (1)\myProject\agam\obj\Debug\agam.Forms.FrmAccountTypesM.resources
+C:\Users\Ofra\Desktop\2024 יב אלצ\New folder\myProject (1)\myProject\agam\obj\Debug\agam.Forms.frmlogin.resources
+C:\Users\Ofra\Desktop\2024 יב אלצ\New folder\myProject (1)\myProject\agam\obj\Debug\agam.Forms.frmManagerDataM.resources
+C:\Users\Ofra\Desktop\2024 יב אלצ\New folder\myProject (1)\myProject\agam\obj\Debug\agam.Forms.frmMoviesM.resources
+C:\Users\Ofra\Desktop\2024 יב אלצ\New folder\myProject (1)\myProject\agam\obj\Debug\agam.Forms.frmMyListC.resources
+C:\Users\Ofra\Desktop\2024 יב אלצ\New folder\myProject (1)\myProject\agam\obj\Debug\agam.Forms.frmSignUp.resources
+C:\Users\Ofra\Desktop\2024 יב אלצ\New folder\myProject (1)\myProject\agam\obj\Debug\agam.Forms.frmTvShowsC.resources
+C:\Users\Ofra\Desktop\2024 יב אלצ\New folder\myProject (1)\myProject\agam\obj\Debug\agam.Forms.frmTvShowsM.resources
+C:\Users\Ofra\Desktop\2024 יב אלצ\New folder\myProject (1)\myProject\agam\obj\Debug\agam.Forms.frmUsersChooseC.resources
+C:\Users\Ofra\Desktop\2024 יב אלצ\New folder\myProject (1)\myProject\agam\obj\Debug\agam.Forms.frmUsersM.resources
+C:\Users\Ofra\Desktop\2024 יב אלצ\New folder\myProject (1)\myProject\agam\obj\Debug\agam.Properties.Resources.resources
+C:\Users\Ofra\Desktop\2024 יב אלצ\New folder\myProject (1)\myProject\agam\obj\Debug\agam.csproj.GenerateResource.cache
+C:\Users\Ofra\Desktop\2024 יב אלצ\New folder\myProject (1)\myProject\agam\obj\Debug\agam.csproj.CoreCompileInputs.cache
+C:\Users\Ofra\Desktop\2024 יב אלצ\New folder\myProject (1)\myProject\agam\obj\Debug\agam.exe
+C:\Users\Ofra\Desktop\2024 יב אלצ\New folder\myProject (1)\myProject\agam\obj\Debug\agam.pdb
+E:\myProject\agam\obj\Debug\agam.csproj.AssemblyReference.cache
+E:\myProject\agam\obj\Debug\Interop.WMPLib.dll
+E:\myProject\agam\obj\Debug\AxInterop.WMPLib.dll
+E:\myProject\agam\obj\Debug\agam.csproj.ResolveComReference.cache
+E:\myProject\agam\obj\Debug\agam.Forms.frmAccountsM.resources
+E:\myProject\agam\obj\Debug\agam.Forms.FrmAccountTypesM.resources
+E:\myProject\agam\obj\Debug\agam.Forms.frmlogin.resources
+E:\myProject\agam\obj\Debug\agam.Forms.frmManagerDataM.resources
+E:\myProject\agam\obj\Debug\agam.Forms.frmMoviesM.resources
+E:\myProject\agam\obj\Debug\agam.Forms.frmMyListC.resources
+E:\myProject\agam\obj\Debug\agam.Forms.frmSignUp.resources
+E:\myProject\agam\obj\Debug\agam.Forms.frmTvShowsC.resources
+E:\myProject\agam\obj\Debug\agam.Forms.frmTvShowsM.resources
+E:\myProject\agam\obj\Debug\agam.Forms.frmUsersChooseC.resources
+E:\myProject\agam\obj\Debug\agam.Forms.frmUsersM.resources
+E:\myProject\agam\obj\Debug\agam.Properties.Resources.resources
+E:\myProject\agam\obj\Debug\agam.csproj.GenerateResource.cache
+E:\myProject\agam\obj\Debug\agam.csproj.CoreCompileInputs.cache
+E:\myProject\agam\obj\Debug\agam.exe
+E:\myProject\agam\obj\Debug\agam.pdb
+E:\myProject\agam\bin\Debug\agam.exe.config
+E:\myProject\agam\bin\Debug\agam.exe
+E:\myProject\agam\bin\Debug\agam.pdb
+E:\myProject\agam\bin\Debug\Interop.WMPLib.dll
+E:\myProject\agam\bin\Debug\AxInterop.WMPLib.dll
+E:\myProject\agam\obj\Debug\agam.Forms.frmAddUsersC.resources
+E:\myProject\agam\obj\Debug\agam.Forms.frmMoviesC.resources
+C:\Users\medin\OneDrive\Documents\myProject (5)\myProject\agam\bin\Debug\agam.exe.config
+C:\Users\medin\OneDrive\Documents\myProject (5)\myProject\agam\bin\Debug\agam.exe
+C:\Users\medin\OneDrive\Documents\myProject (5)\myProject\agam\bin\Debug\agam.pdb
+C:\Users\medin\OneDrive\Documents\myProject (5)\myProject\agam\bin\Debug\Interop.WMPLib.dll
+C:\Users\medin\OneDrive\Documents\myProject (5)\myProject\agam\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\medin\OneDrive\Documents\myProject (5)\myProject\agam\obj\Debug\agam.csprojAssemblyReference.cache
+C:\Users\medin\OneDrive\Documents\myProject (5)\myProject\agam\obj\Debug\Interop.WMPLib.dll
+C:\Users\medin\OneDrive\Documents\myProject (5)\myProject\agam\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\medin\OneDrive\Documents\myProject (5)\myProject\agam\obj\Debug\agam.csproj.ResolveComReference.cache
+C:\Users\medin\OneDrive\Documents\myProject (5)\myProject\agam\obj\Debug\agam.Forms.frmAccountsM.resources
+C:\Users\medin\OneDrive\Documents\myProject (5)\myProject\agam\obj\Debug\agam.Forms.FrmAccountTypesM.resources
+C:\Users\medin\OneDrive\Documents\myProject (5)\myProject\agam\obj\Debug\agam.Forms.frmAddUsersC.resources
+C:\Users\medin\OneDrive\Documents\myProject (5)\myProject\agam\obj\Debug\agam.Forms.frmlogin.resources
+C:\Users\medin\OneDrive\Documents\myProject (5)\myProject\agam\obj\Debug\agam.Forms.frmManagerDataM.resources
+C:\Users\medin\OneDrive\Documents\myProject (5)\myProject\agam\obj\Debug\agam.Forms.frmMoviesC.resources
+C:\Users\medin\OneDrive\Documents\myProject (5)\myProject\agam\obj\Debug\agam.Forms.frmMoviesM.resources
+C:\Users\medin\OneDrive\Documents\myProject (5)\myProject\agam\obj\Debug\agam.Forms.frmMyListC.resources
+C:\Users\medin\OneDrive\Documents\myProject (5)\myProject\agam\obj\Debug\agam.Forms.frmSignUp.resources
+C:\Users\medin\OneDrive\Documents\myProject (5)\myProject\agam\obj\Debug\agam.Forms.frmTvShowsC.resources
+C:\Users\medin\OneDrive\Documents\myProject (5)\myProject\agam\obj\Debug\agam.Forms.frmTvShowsM.resources
+C:\Users\medin\OneDrive\Documents\myProject (5)\myProject\agam\obj\Debug\agam.Forms.frmUsersChooseC.resources
+C:\Users\medin\OneDrive\Documents\myProject (5)\myProject\agam\obj\Debug\agam.Forms.frmUsersM.resources
+C:\Users\medin\OneDrive\Documents\myProject (5)\myProject\agam\obj\Debug\agam.Properties.Resources.resources
+C:\Users\medin\OneDrive\Documents\myProject (5)\myProject\agam\obj\Debug\agam.csproj.GenerateResource.cache
+C:\Users\medin\OneDrive\Documents\myProject (5)\myProject\agam\obj\Debug\agam.csproj.CoreCompileInputs.cache
+C:\Users\medin\OneDrive\Documents\myProject (5)\myProject\agam\obj\Debug\agam.exe
+C:\Users\medin\OneDrive\Documents\myProject (5)\myProject\agam\obj\Debug\agam.pdb
+C:\Users\Student\Documents\myProject (5)\myProject\agam\bin\Debug\agam.exe.config
+C:\Users\Student\Documents\myProject (5)\myProject\agam\bin\Debug\agam.exe
+C:\Users\Student\Documents\myProject (5)\myProject\agam\bin\Debug\agam.pdb
+C:\Users\Student\Documents\myProject (5)\myProject\agam\bin\Debug\Interop.WMPLib.dll
+C:\Users\Student\Documents\myProject (5)\myProject\agam\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\Student\Documents\myProject (5)\myProject\agam\obj\Debug\agam.csproj.AssemblyReference.cache
+C:\Users\Student\Documents\myProject (5)\myProject\agam\obj\Debug\Interop.WMPLib.dll
+C:\Users\Student\Documents\myProject (5)\myProject\agam\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\Student\Documents\myProject (5)\myProject\agam\obj\Debug\agam.csproj.ResolveComReference.cache
+C:\Users\Student\Documents\myProject (5)\myProject\agam\obj\Debug\agam.Forms.frmAccountsM.resources
+C:\Users\Student\Documents\myProject (5)\myProject\agam\obj\Debug\agam.Forms.FrmAccountTypesM.resources
+C:\Users\Student\Documents\myProject (5)\myProject\agam\obj\Debug\agam.Forms.frmAddUsersC.resources
+C:\Users\Student\Documents\myProject (5)\myProject\agam\obj\Debug\agam.Forms.frmlogin.resources
+C:\Users\Student\Documents\myProject (5)\myProject\agam\obj\Debug\agam.Forms.frmManagerDataM.resources
+C:\Users\Student\Documents\myProject (5)\myProject\agam\obj\Debug\agam.Forms.frmMoviesC.resources
+C:\Users\Student\Documents\myProject (5)\myProject\agam\obj\Debug\agam.Forms.frmMoviesM.resources
+C:\Users\Student\Documents\myProject (5)\myProject\agam\obj\Debug\agam.Forms.frmMyListC.resources
+C:\Users\Student\Documents\myProject (5)\myProject\agam\obj\Debug\agam.Forms.frmSignUp.resources
+C:\Users\Student\Documents\myProject (5)\myProject\agam\obj\Debug\agam.Forms.frmTvShowsC.resources
+C:\Users\Student\Documents\myProject (5)\myProject\agam\obj\Debug\agam.Forms.frmTvShowsM.resources
+C:\Users\Student\Documents\myProject (5)\myProject\agam\obj\Debug\agam.Forms.frmUsersChooseC.resources
+C:\Users\Student\Documents\myProject (5)\myProject\agam\obj\Debug\agam.Forms.frmUsersM.resources
+C:\Users\Student\Documents\myProject (5)\myProject\agam\obj\Debug\agam.Properties.Resources.resources
+C:\Users\Student\Documents\myProject (5)\myProject\agam\obj\Debug\agam.csproj.GenerateResource.cache
+C:\Users\Student\Documents\myProject (5)\myProject\agam\obj\Debug\agam.csproj.CoreCompileInputs.cache
+C:\Users\Student\Documents\myProject (5)\myProject\agam\obj\Debug\agam.exe
+C:\Users\Student\Documents\myProject (5)\myProject\agam\obj\Debug\agam.pdb
+C:\Users\Ofra\Desktop\2024 יב אלצ\myProject (5)\myProject (5)\myProject\agam\bin\Debug\agam.exe.config
+C:\Users\Ofra\Desktop\2024 יב אלצ\myProject (5)\myProject (5)\myProject\agam\bin\Debug\agam.exe
+C:\Users\Ofra\Desktop\2024 יב אלצ\myProject (5)\myProject (5)\myProject\agam\bin\Debug\agam.pdb
+C:\Users\Ofra\Desktop\2024 יב אלצ\myProject (5)\myProject (5)\myProject\agam\bin\Debug\Interop.WMPLib.dll
+C:\Users\Ofra\Desktop\2024 יב אלצ\myProject (5)\myProject (5)\myProject\agam\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\Ofra\Desktop\2024 יב אלצ\myProject (5)\myProject (5)\myProject\agam\obj\Debug\agam.csprojAssemblyReference.cache
+C:\Users\Ofra\Desktop\2024 יב אלצ\myProject (5)\myProject (5)\myProject\agam\obj\Debug\Interop.WMPLib.dll
+C:\Users\Ofra\Desktop\2024 יב אלצ\myProject (5)\myProject (5)\myProject\agam\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\Ofra\Desktop\2024 יב אלצ\myProject (5)\myProject (5)\myProject\agam\obj\Debug\agam.csproj.ResolveComReference.cache
+C:\Users\Ofra\Desktop\2024 יב אלצ\myProject (5)\myProject (5)\myProject\agam\obj\Debug\agam.Forms.frmAccountsM.resources
+C:\Users\Ofra\Desktop\2024 יב אלצ\myProject (5)\myProject (5)\myProject\agam\obj\Debug\agam.Forms.FrmAccountTypesM.resources
+C:\Users\Ofra\Desktop\2024 יב אלצ\myProject (5)\myProject (5)\myProject\agam\obj\Debug\agam.Forms.frmAddUsersC.resources
+C:\Users\Ofra\Desktop\2024 יב אלצ\myProject (5)\myProject (5)\myProject\agam\obj\Debug\agam.Forms.frmlogin.resources
+C:\Users\Ofra\Desktop\2024 יב אלצ\myProject (5)\myProject (5)\myProject\agam\obj\Debug\agam.Forms.frmManagerDataM.resources
+C:\Users\Ofra\Desktop\2024 יב אלצ\myProject (5)\myProject (5)\myProject\agam\obj\Debug\agam.Forms.frmMoviesC.resources
+C:\Users\Ofra\Desktop\2024 יב אלצ\myProject (5)\myProject (5)\myProject\agam\obj\Debug\agam.Forms.frmMoviesM.resources
+C:\Users\Ofra\Desktop\2024 יב אלצ\myProject (5)\myProject (5)\myProject\agam\obj\Debug\agam.Forms.frmMyListC.resources
+C:\Users\Ofra\Desktop\2024 יב אלצ\myProject (5)\myProject (5)\myProject\agam\obj\Debug\agam.Forms.frmSignUp.resources
+C:\Users\Ofra\Desktop\2024 יב אלצ\myProject (5)\myProject (5)\myProject\agam\obj\Debug\agam.Forms.frmTvShowsC.resources
+C:\Users\Ofra\Desktop\2024 יב אלצ\myProject (5)\myProject (5)\myProject\agam\obj\Debug\agam.Forms.frmTvShowsM.resources
+C:\Users\Ofra\Desktop\2024 יב אלצ\myProject (5)\myProject (5)\myProject\agam\obj\Debug\agam.Forms.frmUsersChooseC.resources
+C:\Users\Ofra\Desktop\2024 יב אלצ\myProject (5)\myProject (5)\myProject\agam\obj\Debug\agam.Forms.frmUsersM.resources
+C:\Users\Ofra\Desktop\2024 יב אלצ\myProject (5)\myProject (5)\myProject\agam\obj\Debug\agam.Properties.Resources.resources
+C:\Users\Ofra\Desktop\2024 יב אלצ\myProject (5)\myProject (5)\myProject\agam\obj\Debug\agam.csproj.GenerateResource.cache
+C:\Users\Ofra\Desktop\2024 יב אלצ\myProject (5)\myProject (5)\myProject\agam\obj\Debug\agam.csproj.CoreCompileInputs.cache
+C:\Users\Ofra\Desktop\2024 יב אלצ\myProject (5)\myProject (5)\myProject\agam\obj\Debug\agam.exe
+C:\Users\Ofra\Desktop\2024 יב אלצ\myProject (5)\myProject (5)\myProject\agam\obj\Debug\agam.pdb
+C:\Users\medin\OneDrive\שולחן העבודה\אדם נטפליקס\myProject (5)\myProject\agam\bin\Debug\agam.exe.config
+C:\Users\medin\OneDrive\שולחן העבודה\אדם נטפליקס\myProject (5)\myProject\agam\bin\Debug\agam.exe
+C:\Users\medin\OneDrive\שולחן העבודה\אדם נטפליקס\myProject (5)\myProject\agam\bin\Debug\agam.pdb
+C:\Users\medin\OneDrive\שולחן העבודה\אדם נטפליקס\myProject (5)\myProject\agam\bin\Debug\Interop.WMPLib.dll
+C:\Users\medin\OneDrive\שולחן העבודה\אדם נטפליקס\myProject (5)\myProject\agam\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\medin\OneDrive\שולחן העבודה\אדם נטפליקס\myProject (5)\myProject\agam\obj\Debug\agam.csprojAssemblyReference.cache
+C:\Users\medin\OneDrive\שולחן העבודה\אדם נטפליקס\myProject (5)\myProject\agam\obj\Debug\Interop.WMPLib.dll
+C:\Users\medin\OneDrive\שולחן העבודה\אדם נטפליקס\myProject (5)\myProject\agam\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\medin\OneDrive\שולחן העבודה\אדם נטפליקס\myProject (5)\myProject\agam\obj\Debug\agam.csproj.ResolveComReference.cache
+C:\Users\medin\OneDrive\שולחן העבודה\אדם נטפליקס\myProject (5)\myProject\agam\obj\Debug\agam.Forms.frmAccountsM.resources
+C:\Users\medin\OneDrive\שולחן העבודה\אדם נטפליקס\myProject (5)\myProject\agam\obj\Debug\agam.Forms.FrmAccountTypesM.resources
+C:\Users\medin\OneDrive\שולחן העבודה\אדם נטפליקס\myProject (5)\myProject\agam\obj\Debug\agam.Forms.frmAddUsersC.resources
+C:\Users\medin\OneDrive\שולחן העבודה\אדם נטפליקס\myProject (5)\myProject\agam\obj\Debug\agam.Forms.frmlogin.resources
+C:\Users\medin\OneDrive\שולחן העבודה\אדם נטפליקס\myProject (5)\myProject\agam\obj\Debug\agam.Forms.frmManagerDataM.resources
+C:\Users\medin\OneDrive\שולחן העבודה\אדם נטפליקס\myProject (5)\myProject\agam\obj\Debug\agam.Forms.frmMoviesC.resources
+C:\Users\medin\OneDrive\שולחן העבודה\אדם נטפליקס\myProject (5)\myProject\agam\obj\Debug\agam.Forms.frmMoviesM.resources
+C:\Users\medin\OneDrive\שולחן העבודה\אדם נטפליקס\myProject (5)\myProject\agam\obj\Debug\agam.Forms.frmMyListC.resources
+C:\Users\medin\OneDrive\שולחן העבודה\אדם נטפליקס\myProject (5)\myProject\agam\obj\Debug\agam.Forms.frmSignUp.resources
+C:\Users\medin\OneDrive\שולחן העבודה\אדם נטפליקס\myProject (5)\myProject\agam\obj\Debug\agam.Forms.frmTvShowsC.resources
+C:\Users\medin\OneDrive\שולחן העבודה\אדם נטפליקס\myProject (5)\myProject\agam\obj\Debug\agam.Forms.frmTvShowsM.resources
+C:\Users\medin\OneDrive\שולחן העבודה\אדם נטפליקס\myProject (5)\myProject\agam\obj\Debug\agam.Forms.frmUsersChooseC.resources
+C:\Users\medin\OneDrive\שולחן העבודה\אדם נטפליקס\myProject (5)\myProject\agam\obj\Debug\agam.Forms.frmUsersM.resources
+C:\Users\medin\OneDrive\שולחן העבודה\אדם נטפליקס\myProject (5)\myProject\agam\obj\Debug\agam.Properties.Resources.resources
+C:\Users\medin\OneDrive\שולחן העבודה\אדם נטפליקס\myProject (5)\myProject\agam\obj\Debug\agam.csproj.GenerateResource.cache
+C:\Users\medin\OneDrive\שולחן העבודה\אדם נטפליקס\myProject (5)\myProject\agam\obj\Debug\agam.csproj.CoreCompileInputs.cache
+C:\Users\medin\OneDrive\שולחן העבודה\אדם נטפליקס\myProject (5)\myProject\agam\obj\Debug\agam.exe
+C:\Users\medin\OneDrive\שולחן העבודה\אדם נטפליקס\myProject (5)\myProject\agam\obj\Debug\agam.pdb
